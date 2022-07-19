@@ -1,0 +1,6 @@
+pip-tools
+jupyterlab
+pandas
+matplotlib
+jupyterlab-vim
+seaborn
